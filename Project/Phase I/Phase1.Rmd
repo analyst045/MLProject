@@ -14,7 +14,6 @@ documentclass: article
 ---
 
 \newpage
-
 \tableofcontents
 
 \newpage
